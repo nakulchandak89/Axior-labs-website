@@ -13,7 +13,6 @@ import { LiveDeployment } from './components/sections/LiveDeployment';
 import { Industries } from './components/sections/Industries';
 import { TechFoundation } from './components/sections/TechFoundation';
 import { Vision } from './components/sections/Vision';
-import { Testimonials } from './components/sections/Testimonials';
 import { Contact } from './components/sections/Contact';
 import { CTA } from './components/sections/CTA';
 import { Footer } from './components/sections/Footer';
@@ -32,7 +31,6 @@ export default function App() {
         <Industries />
         <TechFoundation />
         <Vision />
-        <Testimonials />
         <Contact />
         <CTA />
       </main>
